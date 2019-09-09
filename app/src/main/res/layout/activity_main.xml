@@ -77,4 +77,10 @@
         android:layout_gravity="right"
         android:text="Đăng nhập" />
 
+    <Button
+        android:id="@+id/thoatBTN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thoát" />
+
 </LinearLayout>
